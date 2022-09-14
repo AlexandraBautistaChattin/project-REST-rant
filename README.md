@@ -25,3 +25,22 @@ Going for a calming and sophisticated color palette with neutrals and maybe a po
  &  &  \\ \bottomrule
 \end{tabular}
 \end{table}
+
+(trying out a table)
+
+## restaurant places (subject to change) ##
+1. Buddy's Italian 
+    - Las Vegas
+    - NV 
+    - Italian
+    - Picture 
+2. So You're Vegan 
+    - Las Vegas
+    - NV 
+    - Vegan cuisine 
+    - Picture 
+3. The Java Nook 
+    - Las Vegas
+    - NV 
+    - Coffee house 
+    - Picture 
