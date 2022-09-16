@@ -10,7 +10,8 @@ function error404 () {
         </main>
     </Def>
   )
-} 
+}
+
 
 module.exports = error404
 
